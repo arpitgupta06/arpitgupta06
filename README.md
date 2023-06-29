@@ -1,17 +1,16 @@
 ## Hi there this is Arpit Gupta 👋
 
-- 🔭 I’m currently researching on Computer Vision
-- 🌱 I’m currently learning Object Segmentation
-- 👯 I’m looking to collaborate on TensorFlow and Keras
-- 🤔 I’m looking for help with more codes and concept on Computer Vision
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arpitgupta76/)
-- ⚡ Fun fact: I want to create something like Jarvis
+working as a data analyst at the moment. As a data enthusiast, I enjoy reading about new data tools and initiatives as well as getting my hands dirty with fresh data and datasets.
 
-### :computer: Language and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
+Recent Tools:
+- Snowflake
+- Snowpark
+- Google Cloud
+- Power BI
+- Python
+- SQL
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arpitgupta06&theme=dark&background=000000)](https://git.io/streak-stats)
+Recent Books:
+- Snowflake Definitive Guide
+- Visualizing Google Cloud
+- Fundamentals of Data Engineering
