@@ -7,7 +7,8 @@ with cte as (
         when dayname(to_timestamp(started_at)) in ('Sat', 'Sun')
         then 'Weekend'
         else 'Businessday'
-    end as day_type
+    end as day_type,
+    {{get_season('started_at')}} as season_of_year
     from {{ source('demo', 'ny_bike') }}
 )
 
