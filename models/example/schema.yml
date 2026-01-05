@@ -1,0 +1,11 @@
+
+version: 2
+
+models:
+    - name: date_dimension
+      description: "A date model"
+      columns:
+          - name: started_at
+            description: "date column"
+            tests:
+                - not_null
