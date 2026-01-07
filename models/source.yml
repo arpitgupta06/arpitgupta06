@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: demo
+    database: dbt_demo
+    schema: dbt_schema
+    tables:
+      - name: ny_weather
+      - name: ny_bike
